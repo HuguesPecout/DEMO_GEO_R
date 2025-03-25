@@ -65,6 +65,7 @@ Trois d'entre-elles sont générées par le script "*Exercice_TAIS.R*" :
 
 </br>
 
+
 ![](img/Rplot.png)
 
 </br>
