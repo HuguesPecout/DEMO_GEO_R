@@ -1,30 +1,28 @@
-# Traitement et analyse de l’IG avec R <img src="img/ehess.png" align="right" width="140"/>
+# Traitement et analyse de l’IG avec R <img src="img/USSEIN.png" align="right" width="140"/>
 
-### Séminaire EHESS TAIS 2023-2024
+### Master I Geomatique, USSEIN (2025)
 
-*Hugues Pecout (CNRS, UMR Géographie-Cités) & Timothée Giraud (CNRS, UAR RIATE)*
+*Hugues Pecout (CNRS, UMR Géographie-Cités) 
 
 </br>
 
 #### **A. Diaporama d'introduction**
 
-
-:warning: Accessible en ligne à ce 
-[**lien**](https://tais-ehess-hpecout-bb467c23dd2ecba666035579bc786d99e7bb2c2b3553.gitpages.huma-num.fr/#/title-slide).
+Accessible en ligne : https://huguespecout.github.io/M1_USSEIN_INTRO_GEO_R
 
 </br>
 
 #### **B. Téléchargement de l’espace de travail**
 
-Un projet Rstudio est téléchargeable à ce lien : [**https://github.com/HuguesPecout/GeoExo_TAIS**](https://github.com/HuguesPecout/GeoExo_TAIS)
+Un projet Rstudio est téléchargeable à ce lien : [**https://github.com/HuguesPecout/DEMO_GEO_R**](https://github.com/HuguesPecout/DEMO_GEO_R)
 
-Téléchargez le dépot zippé ("*Download ZIP*") **GeoExo_TAIS** sur votre machine.   
+Téléchargez le dépot zippé ("*Download ZIP*") **DEMO_GEO_R** sur votre machine.   
 
 </br>
 
 ![](img/download.png)
 
-Une fois le dossier dézippé, lancez le projet Rstudio en double-cliquant sur le fichier **GeoExo_TAIS.Rproj**.
+Une fois le dossier dézippé, lancez le projet Rstudio en double-cliquant sur le fichier **DEMO_GEO_R.Rproj**.
 
 </br>
 
