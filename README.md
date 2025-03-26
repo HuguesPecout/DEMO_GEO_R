@@ -2,7 +2,7 @@
 
 ### Master I Geomatique, USSEIN (2025)
 
-*Hugues Pecout (CNRS, UMR Géographie-Cités) 
+*Hugues Pecout (CNRS, UMR Géographie-Cités)* 
 
 </br>
 
